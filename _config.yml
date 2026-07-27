@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IgnatiusPranantyo.jpg"
+  avatar           : "https://ryanign.github.io/images/IgnatiusPranantyo.jpg"
   name             : "Ryan Pranantyo"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Natural Hazard & Catastrophe Modelling Scientist specialising in coastal flood — tsunami and storm surge — across the APAC region."
