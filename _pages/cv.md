@@ -9,25 +9,41 @@ redirect_from:
 
 ## Work Experience
 
-**Research Fellow** — Earth Observatory of Singapore - NTU, Singapore (2025–present)
+**Research Fellow**
+Earth Observatory of Singapore, Nanyang Technological University, Singapore *January 2025 – present*
 
-**Catastrophe Model Developer** — Reask, UK (2022–2025)
+**Catastrophe Model Developer**
+Reask, United Kingdom *March 2022 - January 2025*
 
-**Postdoctoral Research Fellow** — Brunel University London, UK (2020–2021)
+**Postdoctoral Research Fellow**
+Brunel University London, United Kingdom *January 2020 - July 2021*
 
-**Tsunami Modeller** — Self-employed, Indonesia (2019–2020)
+**Tsunami Modeller**
+Self-employed, Indonesia *August 2019 – January 2020*
 
-**Jr. Geophysicist** — AIFDR, Indonesia (2012–2015)
+**Jr. Geophysicist**
+Australia-Indonesia Facility for Disaster Reduction, Indonesia *October 2012 - May 2015*
 
 ---
 
 ## Education
 
-**PhD, Seismology & Mathematical Geophysics** — Australian National University, Australia (2015–2019)
+**PhD, Seismology & Mathematical Geophysics**
+Australian National University, Australia *2015 – 2019*
 
-**MSc, Earth Sciences** — Bandung Institute of Technology, Indonesia (2011–2012)
+**MSc, Earth Sciences**
+Bandung Institute of Technology, Indonesia *2011 – 2012*
 
-**BSc, Oceanography** — Bandung Institute of Technology, Indonesia (2007–2011)
+**BSc, Oceanography**
+Bandung Institute of Technology, Indonesia *2007 – 2011*
+
+---
+
+## Technical Skills
+- **Modelling:** JAGURS, SCHISM, SFINCS, ANUGA, COMCOT, OpenQuake
+- **Programming:** Python (pandas, NumPy, xarray, matplotlib)
+- **Geospatial:** QGIS, GMT
+- **Computing:** HPC (on-premise & cloud), Linux, Git, conda
 
 ---
 
