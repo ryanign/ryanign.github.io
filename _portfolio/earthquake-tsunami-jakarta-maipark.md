@@ -5,7 +5,7 @@ collection: portfolio
 date: 2025-07-27
 ---
 
-**Collaboration:** PT MAIPARK Indonesia, Earth Observatory of Singapore, Badan Meteorologi, Klimatologi, dan Geofisika, University of Cambridge, and Institut Teknologi Bandung
+**Collaboration:** PT MAIPARK Indonesia - Earth Observatory of Singapore, Nanyang Technological University (EOS) - Agency for Meteorology, Climatology, and Geophysics (BMKG) - Bandung Institute of Technology (ITB)
 
 ---
 
